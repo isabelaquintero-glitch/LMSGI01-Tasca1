@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<inventari actualizat="2025-05-01">
+<inventari actualitzat="2025-05-01">
     <planta id="PLT-01" estoc="disponible">
         <nom>Monstera deliciosa</nom>
         <tipus>Interior</tipus>
@@ -19,3 +19,4 @@
         <regs>1 cop per setmana</regs>
     </planta>
 </inventari>
+
