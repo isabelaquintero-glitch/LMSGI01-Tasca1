@@ -1,0 +1,51 @@
+{
+    "enquestes": [
+        {
+            "id": 1,
+            "titol": "Satisfacción del cliente",
+            "activa": true,
+            "preguntes": [
+                {
+                    "ordre": 1,
+                    "text": "¿Cómo valorarías tu experiencia en la heladería?",
+                    "tipus": "opcio_multiple",
+                    "opcions": [
+                        "Excelente",
+                        "Buena",
+                        "Regular",
+                        "Pésima"
+                    ]
+                },
+                {
+                    "ordre": 2,
+                    "text": "¿Qué mejorarías de nuestro servicio?",
+                    "tipus": "text_lliure"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "titol": "Preferencia de productos",
+            "activa": false,
+            "preguntes": [
+                {
+                    "ordre": 1,
+                    "text": "¿Qué sabor de helado prefieres?",
+                    "tipus": "opcio_multiple",
+                    "opcions": [
+                        "Chocolate",
+                        "Vainilla",
+                        "Avellana",
+                        "Pistacho",
+                        "Fresa"
+                    ]
+                },
+                {
+                    "ordre": 2,
+                    "text": "¿Qué sabor te gustaría que hiciéramos?",
+                    "tipus": "text_lliure"
+                }
+            ]
+        }
+    ]
+}
