@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cataleg>
     <pellicula id="P01">
-        <titol>El laberint del faunte</titol>
+        <titol>El laberint del faune</titol>
         <any>2006</any>
         <genere>Fantasia</genere>
         <durada unitat="min">118</durada>
@@ -33,7 +33,7 @@
             </actor>
             <actor>
                 <nom>Robert Sean</nom>
-                <llinatges>Lleonard</llinatges>
+                <llinatges>Leonard</llinatges>
             </actor>
         </actors>
     </pellicula>
@@ -54,4 +54,5 @@
             </actor>
         </actors>
     </pellicula>
+
 </cataleg>
